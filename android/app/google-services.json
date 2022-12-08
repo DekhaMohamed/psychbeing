@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "998134935263",
+    "project_id": "psychbeing-82bde",
+    "storage_bucket": "psychbeing-82bde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998134935263:android:60d247db51fbce6804836a",
+        "android_client_info": {
+          "package_name": "com.example.ui_design"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998134935263-iqotbefqt2b6q51d4412ejdpe4gaqhnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLLwzoIlBkkZ99JsrccWvnRyrr0DHMZ-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998134935263-iqotbefqt2b6q51d4412ejdpe4gaqhnm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
